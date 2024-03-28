@@ -1,4 +1,4 @@
-package and06.nibobnebob.User.Model.Dto;
+package and06.nibobnebob.User.Dto;
 
 public class UserDto {
 	private String email;
